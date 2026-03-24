@@ -8,6 +8,6 @@ Actualmente, desarrollé una **nueva y mejorada versión**, con un diseño renov
 
 Te invito a conocer mi trabajo más reciente acá:
 
-**[Ver el Nuevo Portfolio en Vivo](https://portfolio-tomas-misrahi.netlify.app/en)**
+**[Ver el Nuevo Portfolio en Vivo](https://portfolio-tomas-misrahi.netlify.app)**
 
 **[Ver el Código del Nuevo Portfolio en GitHub](https://github.com/TomasMisrahi/Portfolio-Tomas-Misrahi)**
